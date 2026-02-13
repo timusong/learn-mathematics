@@ -115,7 +115,7 @@ Make sure you are extremely comfortable with algebra and trigonometry before mov
 
 Calculus deals with infinity in a computational manner. You learn to take derivatives and integrals as you try to understand how to relate the infinitesimally small with the infinitely large. We will come back to these questions in a deeper way in the [real analysis section](#real-analysis), but this subsection is concerned more with the application of these tools to solve problems such as optimizing functions and finding volumes of revolution. My favorite book happens to have a "pay what you want" model:
 
-**[APEX Calculus](https://leanpub.com/apexcalculus)**, *Gregory Hartman*
+**[APEX Calculus](https://opentext.uleth.ca/calculus.html)**, *Gregory Hartman*
 
 <img src="/learn-mathematics/img/apex.png" alt="APEX" width="400px"/>
 
@@ -137,7 +137,7 @@ As usual with Lang, this book is well written and I remember enjoying the integr
 
 In this section, we take some time to learn basic proof patterns and how they are used in mathematics to make sure we are correct in our arguments. Proofs are not the end all be all of mathematics, but rigor is necessary to avoid nonsense, as [19th century mathematics proved time and time again](https://link.springer.com/book/10.1007/978-3-319-23715-2). I like this free book:
 
-**[Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/)**, *Richard Hammack*
+**[Book of Proof](https://richardhammack.github.io/BookOfProof/)**, *Richard Hammack*
 
 <img src="/learn-mathematics/img/hammack.jpg" alt="Hammack" width="200px"/>
 
@@ -151,13 +151,13 @@ In this section, we now move on to actual mathematics major classes. If you have
 
 Linear Algebra is the heart and soul of mathematics. In practically every field, our first instinct is to linearize problems and see if we can retrieve the original solution from it. It is central to everything that will follow and for this reason you need to be extremely proficient with it. Thankfully, the linear algebra textbooks that follow are of very good quality and my top recommendation is entirely free:
 
-**[Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW.html)**, *Sergei Treil*
+**[Linear Algebra Done Wrong](https://sites.google.com/a/brown.edu/sergei-treil-homepage/linear-algebra-done-wrong)**, *Sergei Treil*
 
 <img src="/learn-mathematics/img/ladw.png" alt="LADW" width="200px"/>
 
 This book is just great. Don't be fooled by the cheeky name (probably a reference to the next book), this textbook is wonderful, with a great spread of exercises ranging from simple verification to more involved problems. I suggest doing everything in there. Another good text is the following classic:
 
-**[Linear Algebra Done Right](https://www.amazon.com/Linear-Algebra-Right-Undergraduate-Mathematics/dp/3031410254/)**, *Sheldon Axler*
+**[Linear Algebra Done Right](https://linear.axler.net/)**, *Sheldon Axler*
 
 <img src="/learn-mathematics/img/ladr.jpg" alt="LADR" width="200px"/>
 
@@ -167,7 +167,7 @@ The "Done Right" comes from the author's opinion that determinants tend to muddy
 
 <img src="/learn-mathematics/img/lay.jpg" alt="Lay" width="200px"/>
 
-Alternatively, if you liked Lang before, you might want to read his books on linear algebra, the first one is an introduction, and the second a more advanced treatment. My first exposure to linear algebra was with the introduction. Personally, I'd read one after the other, but I will only show the second one here:
+Alternatively, if you liked Lang before, you might want to read his books on linear algebra, the [first one](https://www.amazon.com/Introduction-Linear-Algebra-Serge-Lang/dp/0387962050/) is an introduction, and the second a more advanced treatment. My first exposure to linear algebra was with the introduction. Personally, I'd read one after the other, but I will only show the second one here:
 
 **[Linear Algebra](https://www.amazon.com/Linear-Algebra-Undergraduate-Texts-Mathematics/dp/0387964126/)**, *Serge Lang*
 
@@ -185,7 +185,7 @@ This is the book that made me fall in love with mathematics. Abbott is a master 
 
 **[Mathematical Analysis I-II](https://www.amazon.com/Mathematical-Analysis-Universitext-V-Zorich/dp/366248790X/)**, *Vladimir A. Zorich*
 
-<img src="/learn-mathematics/img/zorich.jpg" alt="Tao" width="200px"/>
+<img src="/learn-mathematics/img/zorich.jpg" alt="Zorich" width="200px"/>
 
 These two books taken together provide a very thorough introduction to analysis in general, and I very heavily recommend it. The next book fills a particular niche by having you construct most of the theory yourself:
 
@@ -218,7 +218,7 @@ If you are especially interested in computer science or programming, then it's h
 
 **[Concrete Mathematics](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science-ebook/dp/B08F5H9DYM/)**, *Ronald Graham, et al*
 
-<img src="/learn-mathematics/img/concrete.jpg" alt="Cocnrete" width="200px"/>
+<img src="/learn-mathematics/img/concrete.jpg" alt="Concrete" width="200px"/>
 
 Another very good introduction to the subject is this book:
 
@@ -253,7 +253,7 @@ I would suggest exploring the book, rather than outright studying it. Walk throu
 
 ## Mastering the fundamentals
 
-We now move to the core of a mathematics undergraduate degree. This is where abstraction and generalization is taken to another level. These courses are absolutely crucial to understanding modern mathematics, and all of these theories were developped to help mathematicians solve important problems. For instance, much of modern algebra was developped to solve [Fermat's Last Theorem](https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem). Differential equations and differential geometry grew, in part, out of physics. Topology is a natural extension of real analysis and helps transfer its tools to other fields.
+We now move to the core of a mathematics undergraduate degree. This is where abstraction and generalization is taken to another level. These courses are absolutely crucial to understanding modern mathematics, and all of these theories were developed to help mathematicians solve important problems. For instance, much of modern algebra was developed to solve [Fermat's Last Theorem](https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem). Differential equations and differential geometry grew, in part, out of physics. Topology is a natural extension of real analysis and helps transfer its tools to other fields.
 
 The selection of the following four topics is somewhat arbitrary. For instance, Fourier analysis has a central place in modern analysis and could have been here. Similarly, Galois theory is central to abstract algebra, although it is rarely covered early on in mathematics textbooks. The interested student is encouraged to study both of these early on, but they will instead be listed in [Analysis](#analysis) and [Algebra](#algebra) respectively.
 
@@ -297,7 +297,7 @@ This is probably the book that is used most for a single-semester undergraduate 
 
 Abstract algebra (often called algebra more simply) is a language used to describe the concept of equality, and all possible generalizations of it, such as equivalence relationships and the like. Many parts of mathematics have an algebraic counterpart: algebraic topology, algebraic geometry, even algebraic analysis. As such, it is paramount that you get familiar with it. My favorite textbook on the subject is free:
 
-**[Abstract Algebra: Theory and Applications](http://abstract.ups.edu/aata/aata.html)**, *Thomas W. Judson*
+**[Abstract Algebra: Theory and Applications](https://judsonbooks.org/abstract-algebra-theory-and-applications/)**, *Thomas W. Judson*
 
 <img src="/learn-mathematics/img/aata.png" alt="AATA" width="200px"/>
 
@@ -404,7 +404,7 @@ We finally come back to real analysis, but this time through a more mature lens.
 
 **[Real Analysis](https://www.amazon.com/Real-Analysis-Integration-Princeton-Lectures/dp/0691113866/)**, *Elias M. Stein, Rami Shakarchi*
 
-<img src="/learn-mathematics/img/stein-real.jpg" alt="Stein & Shakarchi Vol.3" width="200px"/>
+<img src="/learn-mathematics/img/stein-real.jpg" alt="Stein & Shakarchi, Vol.3" width="200px"/>
 
 Yes, yes, what can I say? What a surprise. But once again, this book is gold. There is a reason why all the books in the series form the core of my recommendations for graduate analysis: they're just that good. This book is interesting because while it does focus on measures and integration, it also revisits previous topics from Fourier and complex analysis. It also has an interesting discussion of fractals. The exercises are splendid, with a great range of difficulty. Another great exposition is of course:
 
@@ -476,7 +476,7 @@ Taking this further, this is the best book I know on stochastic differential equ
 
 **[Stochastic Differential Equations](https://www.amazon.com/Stochastic-Differential-Equations-Introduction-Applications/dp/3540047581/)**, *Bernt Øksendal*
 
-<img src="/learn-mathematics/img/oksendal.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/oksendal.jpg" alt="Oksendal" width="200px"/>
 
 ### Harmonic Analysis
 
@@ -556,7 +556,7 @@ J.S. Milne is a fantastic author, and most of his works are completely free on [
 
 **[Galois Theory](https://www.amazon.com/Galois-Theory-Graduate-Texts-Mathematics/dp/038790980X/)**, *Harold M. Edwards*
 
-<img src="/learn-mathematics/img/edwards.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/edwards.jpg" alt="Edwards" width="200px"/>
 
 What I like most about the book is that the author chose to discuss at lengths about the history of the subject, especially where it came from and what allowed Galois to discover his famous theorem.
 
@@ -570,7 +570,7 @@ Commutative algebra is the backbone of algebraic geometry and algebraic number t
 
 It would be better to call this book a free set of lectures notes. The exposition is fantastic and it is the book I used most when I was learning the subject. The exercises are great, and I love the fact this book uses category theory at length, which helps simplify the arguments in my opinion. It is a modernized version of [Atiyah & Macdonald](https://www.amazon.com/Introduction-Commutative-Algebra-Addison-Wesley-Mathematics/dp/0367091283/), the classic textbook on the subject. The other book I used to learn the subject is this one:
 
-**[Basic Commutative Algebra](https://www.amazon.com/Basic-Commutative-Algebra-Balwant-Singh/dp/9814313610)**, *Balwant Singh*
+**[Basic Commutative Algebra](https://www.amazon.com/Basic-Commutative-Algebra-Balwant-Singh/dp/9814313610/)**, *Balwant Singh*
 
 <img src="/learn-mathematics/img/singh.jpg" alt="Singh" width="200px"/>
 
@@ -628,7 +628,7 @@ Serre is a mathematical genius and it shows. Everything flows nicely and it is t
 
 **[Introduction to Lie Algebras and Representation Theory](https://www.amazon.com/Introduction-Algebras-Representation-Graduate-Mathematics/dp/0387900535/)**, *James E. Humphreys*
 
-<img src="/learn-mathematics/img/humphreys-lie.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/humphreys-lie.jpg" alt="Humphreys Lie" width="200px"/>
 
 This book is *hard*. But it is a great book, and Lie algebras are ubiquitous in modern mathematics.
 
@@ -743,7 +743,7 @@ It's Lee and it's wonderful. The newest version had a title change, I knew it as
 
 **[Riemannian Geometry](https://www.amazon.com/Riemannian-Geometry-Manfredo-Perdigao-Carmo/dp/0817634908/)**, *Manfredo P. Do Carmo*
 
-<img src="/learn-mathematics/img/docarmo-riem.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/docarmo-riem.jpg" alt="Do Carmo Riemannian" width="200px"/>
 
 It's a standard reference for a reason. If you liked Do Carmo's book on classical differential geometry, you will most likely like this one too. Finally, if your main interest is general relativity, I think this book might be of use to you:
 
@@ -833,13 +833,13 @@ Here we are, schemes, the good stuff, the difficult stuff. This is my favorite s
 
 I love the presentation of the subject as I found it easiest to learn from personally. The examples *really* help understand what's going on and why schemes are defined the way they are. I think organization could be a bit better though. Another book I love and that I don't see mentioned enough is this:
 
-**[Algebraic Geometry I-II](https://www.amazon.com/Algebraic-Geometry-Examples-Exercises-Mathematik/dp/3658307323?ref_=ast_sto_dp)**, *Ulrich Görtz, Torsten Wedhorn*
+**[Algebraic Geometry I-II](https://www.amazon.com/Algebraic-Geometry-Examples-Exercises-Mathematik/dp/3658307323/)**, *Ulrich Görtz, Torsten Wedhorn*
 
 <img src="/learn-mathematics/img/gortz.jpg" alt="Görtz-Wedhorn" width="200px"/>
 
 This is a translation of the two German classics on scheme theory. The first one deals with general aspects of schemes while the second one focuses on the cohomology of schemes, a notoriously difficult part of an already notoriously difficult subject. I think if I had to get a single resource to study algebraic geometry (outside of maybe the lecture notes above), it would be this. Next, this insane book that is _also_ free:
 
-**[Foundations of Algebraic Geometry](http://math.stanford.edu/~vakil/216blog/FOAGnov1817public.pdf)**, *Ravi Vakil*
+**[Foundations of Algebraic Geometry](https://math.stanford.edu/~vakil/216blog/index.html)**, *Ravi Vakil*
 
 <img src="/learn-mathematics/img/foag.png" alt="FOAG" width="200px"/>
 
@@ -875,7 +875,7 @@ I especially liked the discussion on sheaf theory. In general, the section on sh
 
 **[Algebraic Curves and Riemann Surfaces](https://www.amazon.com/Algebraic-Riemann-Surfaces-Graduate-Mathematics/dp/0821802682/)**, *Rick Miranda*
 
-<img src="/learn-mathematics/img/miranda.jpg" alt="Arapura" width="200px"/>
+<img src="/learn-mathematics/img/miranda.jpg" alt="Miranda" width="200px"/>
 
 Miranda is a classic book on the subject. I like that it starts with maybe my favorite object in mathematics: Riemann surfaces. If I had to get one book on complex geometry, I'd make it this one.
 
@@ -945,13 +945,13 @@ It's a standard reference textbook for a reason. The section on elliptic curves 
 
 **[Elliptic Curves](https://www.amazon.com/Elliptic-Curves-Second-James-Milne-ebook/dp/B08H5GM99Y/)**, *J.S. Milne*
 
-<img src="/learn-mathematics/img/milne-ecurve.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/milne-ecurve.jpg" alt="Milne ECurves" width="200px"/>
 
 Not much to say on this one, I haven't used it a whole lot but it's Milne so it's hard to go wrong. There is a follow-up:
 
 **[Complex Multiplication](https://www.jmilne.org/math/CourseNotes/cm.html)**, *J.S. Milne*
 
-<img src="/learn-mathematics/img/milne-cm.png" alt="" width="200px"/>
+<img src="/learn-mathematics/img/milne-cm.png" alt="Milne CM" width="200px"/>
 
 Complex multiplication is a fascinating topic that has a rich history. While the theory was originally developed for elliptic curves, it grew to include abelian varieties more generally (see below). The reference I know and I consulted a bit is Lang:
 
@@ -963,7 +963,7 @@ Complex multiplication is a fascinating topic that has a rich history. While the
 
 Arithmetic geometry is at the crossroads between algebraic geometry and modern number theory. Roughly speaking, it is what happens when you are interested in doing algebraic geometry over things like the integers. It is a wonderful subject, and much of the machinery behind algebraic geometry (schemes and the likes) were developped to solve questions in arithmetic geometry, most notably the Weil conjectures, which include the famous finite field version of Riemann's Hypothesis. Part of the subject is generalizing things such as elliptic curves:
 
-**[Abelian Varieties](https://www.jmilne.org/math/CourseNotes/AV.pdf)**, *J.S. Milne*
+**[Abelian Varieties](https://www.jmilne.org/math/CourseNotes/av.html)**, *J.S. Milne*
 
 <img src="/learn-mathematics/img/milne-av.png" alt="Milne AV" width="200px"/>
 
@@ -1009,15 +1009,15 @@ Algebraic number theory uses tools from abstract algebra (especially commutative
 
 It's well written and I like the examples. The exercises are well chosen too. Great recommendation. Next is:
 
-**[Algebraic Number Theory](https://www.jmilne.org/math/CourseNotes/ANT.pdf)**, *J.S. Milne*
+**[Algebraic Number Theory](https://www.jmilne.org/math/CourseNotes/ant.html)**, *J.S. Milne*
 
 <img src="/learn-mathematics/img/milne-ant.png" alt="Milne ANT" width="200px"/>
 
 The standard Milne recommendation. He wrote extensively about algebraic number theory and it is a wonderful starting place. I also suggest the other notes he wrote on the subject:
 
-**[Class Field Theory](https://www.jmilne.org/math/CourseNotes/ANT.pdf](https://www.jmilne.org/math/CourseNotes/cft.html)**, *J.S. Milne*
+**[Class Field Theory](https://www.jmilne.org/math/CourseNotes/cft.html)**, *J.S. Milne*
 
-<img src="/learn-mathematics/img/milne-CFT.png" alt="Milne ANT" width="200px"/>
+<img src="/learn-mathematics/img/milne-CFT.png" alt="Milne CFT" width="200px"/>
 
 If you are looking for something slightly easier and more approachable, I liked the following:
 
@@ -1061,7 +1061,7 @@ There are a few books written by Deitmar on this list and they are all good, thi
 
 **[Modular Functions and Modular Forms](https://www.jmilne.org/math/CourseNotes/mf.html)**, *J.S. Milne*
 
-<img src="/learn-mathematics/img/milne-mf.png" alt="Deitmar AF" width="200px"/>
+<img src="/learn-mathematics/img/milne-mf.png" alt="Milne MF" width="200px"/>
 
 Milne really wrote about everything and made almost all of it free. Absolutely fantastic. It's Milne so it's probably really good, I haven't read much so I can't tell. Finally there is this:
 
@@ -1197,7 +1197,7 @@ The standard textbook for a graduate class on the subject. I haven't read much a
 
 This one specializes on differential games in particular, meaning games that have a variable whose state over time is governed by a differential equation. It is a fascinating theory and this is a great introduction.
 
-#### Numerical Analysis
+### Numerical Analysis
 
 Numerical analysis is crucial when a direct, analytic solution is not easily found. This includes computational versions of a mathematical subject (see the commutative algebra and algebraic geometry sections for examples) or more generally numerical methods (such as with PDEs). I do not know a whole lot about the subject, I only took a senior undergraduate class on it. We used this textbook:
 
@@ -1225,25 +1225,25 @@ Mathematics has a rich history, and there are many books written on the subject.
 
 **[The Real and the Complex](https://www.amazon.com/Real-Complex-Analysis-Undergraduate-Mathematics/dp/3319237144/)**, *Jeremy Gray*
 
-<img src="/learn-mathematics/img/gray-real.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/gray-real.jpg" alt="Gray Real" width="200px"/>
 
 This one is my favorite, it discusses analysis in the 19th century, a beautiful story.
 
 **[Worlds Out of Nothing](https://www.amazon.com/Worlds-Out-Nothing-Undergraduate-Mathematics/dp/0857290592/)**, *Jeremy Gray*
 
-<img src="/learn-mathematics/img/gray-worlds.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/gray-worlds.jpg" alt="Gray Worlds" width="200px"/>
 
 This one focuses on geometry, and its development is absolutely fascinating.
 
 **[A History of Abstract Algebra](https://www.amazon.com/History-Abstract-Algebra-Undergraduate-Mathematics/dp/3319947729/)**, *Jeremy Gray*
 
-<img src="/learn-mathematics/img/gray-algebra.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/gray-algebra.jpg" alt="Gray Algebra" width="200px"/>
 
 A history of algebra as the title says. It's interesting to see the difference between the way the ideas were born and how they are taught in modern algebra textbooks, for instance by having groups and rings before fields.
 
 **[Change and Variations](https://www.amazon.com/Change-Variations-Differential-Undergraduate-Mathematics/dp/3030705749/)**, *Jeremy Gray*
 
-<img src="/learn-mathematics/img/gray-variations.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/gray-variations.jpg" alt="Gray Variations" width="200px"/>
 
 This discusses differential equations and calculus of variations, a subject I do not know enough to comment on (although I have used it in physics), but it's great stuff. Okay, here's a more general textbook:
 
