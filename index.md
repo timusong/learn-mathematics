@@ -564,7 +564,7 @@ What I like most about the book is that the author chose to discuss at lengths a
 
 Commutative algebra is the backbone of algebraic geometry and algebraic number theory and is a crucial course in the life of an algebraist. There are many different great books on the subject, so I will list a few. First, my favorite out of them all:
 
-**[A Term of Commutative Algebra](http://web.mit.edu/18.705/www/13Ed.pdf)**, *Allen Altman, Steven Kleiman*
+**[A Term of Commutative Algebra](https://www.researchgate.net/profile/Steven-Kleiman/publication/351211952_A_Term_of_Commutative_Algebra/links/608b6380458515d315e6bc21/A-Term-of-Commutative-Algebra.pdf)**, *Allen Altman, Steven Kleiman*
 
 <img src="/learn-mathematics/img/term-commutative.png" alt="A Term of Commutative Algebra" width="200px"/>
 
@@ -811,7 +811,7 @@ Classical algebraic geometry roughly means "algebraic geometry before schemes", 
 
 It's free, it's well-written, I like the examples. What is there not to like. But it is not how I learned the theory. Instead, this is the book I used:
 
-**[Algebraic Curves](https://dept.math.lsa.umich.edu/~wfulton/CurveBook.pdf)**, *William Fulton*
+**[Algebraic Curves](https://web.archive.org/web/20260108015049/https://dept.math.lsa.umich.edu/~wfulton/CurveBook.pdf)**, *William Fulton*
 
 <img src="/learn-mathematics/img/fulton-ag.png" alt="Fulton AG" width="200px"/>
 
